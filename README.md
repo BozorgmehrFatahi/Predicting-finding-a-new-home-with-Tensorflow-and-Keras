@@ -1,7 +1,7 @@
 # Predicting-finding-a-new-home-with-Tensorflow-and-Keras
 # Pet Adoption Prediction
 
-This project implements a deep learning model to predict pet adoption speed using TensorFlow and Keras. The model processes various features related to pets and outputs a binary classification representing whether a pet is likely to be adopted quickly.
+This project implements a deep learning model for pet adoption rate prediction using TensorFlow and Keras. And in fact, the purpose of this project is to compare these two libraries
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ This project implements a deep learning model to predict pet adoption speed usin
 
 ## Project Overview
 
-Pet adoption is a significant issue, and predicting how quickly a pet can be adopted can help shelters manage resources better. This project utilizes a dataset from PetFinder that includes various features of pets and their adoption speeds. The goal is to create a model that can predict the probability of a pet being adopted quickly based on its characteristics.
+The purpose of this project is to compare two deep learning libraries, namely keras and tensorflow, and as you can see, in this project, after performing the necessary pre-processing on a dataset, we used each type of library separately, so that the difference of doing the project at a low level (with keras) and be well visible at the hight level (with tensorflow).
 
 ## Features
 
